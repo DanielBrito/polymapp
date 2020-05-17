@@ -1,0 +1,11 @@
+.App {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  height: 100vh;
+  background-color: #1b1464;
+}
+
+.App-logo {
+  height: 60vmin;
+}

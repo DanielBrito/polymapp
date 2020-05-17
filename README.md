@@ -1,12 +1,17 @@
-# PolymApp
+<h1 align="center">
+    <img alt="PolymApp logo" src="https://raw.githubusercontent.com/DanielBrito/polymapp/master/polymapp-client/src/assets/img/polymapp_logo.svg" width="400px" />
+    <br>
+    PolymApp
+</h1>
 
 **PolymApp** is a (very) personal management tool to control readings and studies, make long-term activity plans, budget to measure expenses, list ongoing and future projects, and other features.
 
 It's an optimized version of a spreadsheet that I used to perform such activities since I was 16. Moreover, it's also an opportunity to improve my programming skills and increase my knowledge in software engineering.
 
-The name is inspired by the term *polymath*, who is an individual whose knowledge spans a significant number of subjects.
+The name is inspired by the term _polymath_, who is an individual whose knowledge spans a significant number of subjects.
 
 ---
+
 📚 READINGS: List of ongoing and future readings (books, magazines, mangas, comics etc.). Thus, I can measure the number of readings I make in a year, for example.
 
 🔍 RESEARCHES: As a person who is interested in a lot of subjects, one day I lost total control of what I was studying because I couldn't manage all the stuff I was getting into (at the same time). So, this list helped me to get back on track.

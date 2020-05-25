@@ -35,3 +35,15 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 📺 WATCHING: List of movies, documentaries, series and animes I'm watching as well as the ones I plan to watch.
 
 💰 EXPENSES: Since I earned my first salary, I control my monthly expenses and make a budget for things I want to buy (mostly books).
+
+## Tools
+
+- [Photopea](https://www.photopea.com/): Image editing
+- [Inkscape](https://inkscape.org/pt-br/): Svg editing
+- [Draw-io](https://app.diagrams.net/): UML Diagrams creation
+
+## Software Engineering
+
+- Use Case Diagram
+- Class Diagram
+- Object Diagram

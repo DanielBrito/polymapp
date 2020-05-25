@@ -36,13 +36,13 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 💰 EXPENSES: Since I earned my first salary, I control my monthly expenses and make a budget for things I want to buy (mostly books).
 
-## Tools
+## Used tools
 
 - [Photopea](https://www.photopea.com/): Image editing
 - [Inkscape](https://inkscape.org/pt-br/): Svg editing
 - [Draw-io](https://app.diagrams.net/): UML Diagrams creation
 
-## Software Engineering
+## Basics on Software Engineering
 
 - System requirements specifications
 - Use Case Diagram

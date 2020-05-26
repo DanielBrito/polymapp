@@ -20,8 +20,6 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 💡 CREATIVITY: List of actions, positive thoughts and quotations that makes me reflect on my existential purpose and helps me to create stuff.
 
-🌐 WEB SITES: List of my favorite web sites where I read about art, politics, science, technology, philosophy and other interesting subjects.
-
 📅 LONG TERM: List of activities to be scheduled and completed in the long term.
 
 🧠 LEARNING: My self-learning revolves around this list, which has the programming languages I'm learning, the ones I want to study, as well as languages (French, Spanish, Italian) and many, many other things.
@@ -29,8 +27,6 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 🛠️ PROJECTS: List of projects I'm involved in and intend to develop.
 
 ✅ AGENDA: List of daily activities. I don't stipulate time, because everything is so unpredictable, I just write down all the goals and try to complete them.
-
-👨 PROFILES: List of all accounts I own, including the link and the specification of each one.
 
 📺 WATCHING: List of movies, documentaries, series and animes I'm watching as well as the ones I plan to watch.
 
@@ -44,7 +40,7 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 ## Basics on Software Engineering
 
-- System requirements specifications
+- [System requirements specifications](https://docs.google.com/document/d/1-mOQqfdm5J7cd0EA8gDMA6if-CZXx9bo-v9mfI-6Hrg/edit?usp=sharing)
 - Use Case Diagram
 - Class Diagram
 - Object Diagram

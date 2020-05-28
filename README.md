@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="PolymApp logo" src="https://raw.githubusercontent.com/DanielBrito/polymapp/master/polymapp-client/src/assets/img/polymapp_logo.svg" width="400px" />
     <br>
-    PolymApp
+    <strong>PolymApp</strong>
 </h1>
 
 **PolymApp** is a (very) personal management tool to control readings and studies, make long-term activity plans, budget to measure expenses, list ongoing and future projects, and other features.
@@ -18,7 +18,7 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 🔍 RESEARCHES: As a person who is interested in a lot of subjects, one day I lost total control of what I was studying because I couldn't manage all the stuff I was getting into (at the same time). So, this list helped me to get back on track.
 
-💡 CREATIVITY: List of actions, positive thoughts and quotations that makes me reflect on my existential purpose and helps me to create stuff.
+💡 CREATIVITY TIPS: List of actions, positive thoughts and quotations that makes me reflect on my existential purpose and helps me to create stuff.
 
 📅 LONG TERM: List of activities to be scheduled and completed in the long term.
 
@@ -34,13 +34,18 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 ## Used tools
 
-- [Photopea](https://www.photopea.com/): Image editing
-- [Inkscape](https://inkscape.org/pt-br/): Svg editing
-- [Draw-io](https://app.diagrams.net/): UML Diagrams creation
+:camera: [Photopea](https://www.photopea.com/): Image editing
 
-## Basics on Software Engineering
+:black_nib: [Inkscape](https://inkscape.org/pt-br/): Svg editing
 
-- [System requirements specifications](https://docs.google.com/document/d/1-mOQqfdm5J7cd0EA8gDMA6if-CZXx9bo-v9mfI-6Hrg/edit?usp=sharing)
-- Use Case Diagram
-- Class Diagram
-- Object Diagram
+:pencil2: [Draw-io](https://app.diagrams.net/): UML Diagrams creation
+
+## Software Engineering
+
+:spiral_notepad: [System requirements specifications](https://docs.google.com/document/d/1-mOQqfdm5J7cd0EA8gDMA6if-CZXx9bo-v9mfI-6Hrg/edit?usp=sharing)
+
+:triangular_ruler: [Use Case Diagram](https://drive.google.com/file/d/1YB2wIboDLw9C9kgoIKkH77BYved6Ed_d/view?usp=sharing)
+
+:triangular_ruler: Class Diagram
+
+:triangular_ruler: Object Diagram

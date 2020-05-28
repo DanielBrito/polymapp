@@ -20,13 +20,13 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 💡 CREATIVITY TIPS: List of actions, positive thoughts and quotations that makes me reflect on my existential purpose and helps me to create stuff.
 
-📅 LONG TERM: List of activities to be scheduled and completed in the long term.
+📅 LONG-TERM PLANS: List of activities to be scheduled and completed in the long term.
 
-🧠 LEARNING: My self-learning revolves around this list, which has the programming languages I'm learning, the ones I want to study, as well as languages (French, Spanish, Italian) and many, many other things.
+🧠 LEARNING TOPICS: My self-learning revolves around this list, which has the programming languages I'm learning, the ones I want to study, as well as languages (French, Spanish, Italian) and many, many other things.
 
 🛠️ PROJECTS: List of projects I'm involved in and intend to develop.
 
-✅ AGENDA: List of daily activities. I don't stipulate time, because everything is so unpredictable, I just write down all the goals and try to complete them.
+✅ APPOINTMENTS: List of daily activities. I don't stipulate time, because everything is so unpredictable, I just write down all the goals and try to complete them.
 
 📺 WATCHING: List of movies, documentaries, series and animes I'm watching as well as the ones I plan to watch.
 

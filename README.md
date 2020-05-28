@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="PolymApp logo" src="https://raw.githubusercontent.com/DanielBrito/polymapp/master/polymapp-client/src/assets/img/polymapp_logo.svg" width="400px" />
+    <img alt="PolymApp logo" src="https://raw.githubusercontent.com/DanielBrito/polymapp/master/polymapp-web/src/assets/img/polymapp_logo.svg" width="400px" />
     <br>
     <strong>PolymApp</strong>
 </h1>

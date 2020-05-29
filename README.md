@@ -6,7 +6,7 @@
 
 **PolymApp** is a (very) personal management tool to control readings and studies, make long-term activity plans, budget to measure expenses, list ongoing and future projects, and other features.
 
-It's an optimized version of a spreadsheet that I used to perform such activities since I was 16. Moreover, it's also an opportunity to improve my programming skills and increase my knowledge in software engineering.
+It's an optimized version of a spreadsheet that I used to perform such activities since I was 16. Moreover, it's also an opportunity to improve my programming skills and increase my knowledge in Software Engineering.
 
 The name is inspired by the term _polymath_, who is an individual whose knowledge spans a significant number of subjects.
 
@@ -32,7 +32,11 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 :moneybag: EXPENSES: Since I earned my first salary, I control my monthly expenses and also make a budget for things I want to buy (mostly books).
 
-## Used tools
+## Tools
+
+:toolbox: [ReactJS](https://pt-br.reactjs.org/): JavaScript library
+
+:triangular_ruler: [Material-UI](https://material-ui.com/pt/): React UI framework
 
 :camera: [Photopea](https://www.photopea.com/): Image editing
 
@@ -46,6 +50,10 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 :triangular_ruler: [Use Case Diagram](https://drive.google.com/file/d/1YB2wIboDLw9C9kgoIKkH77BYved6Ed_d/view?usp=sharing)
 
-:triangular_ruler: Class Diagram
+:triangular_ruler: [Class Diagrams](https://drive.google.com/file/d/1_em7X-ndYgiG1u71KeCAeBUNpC2fgrM-/view?usp=sharing)
 
-:triangular_ruler: Object Diagram
+:triangular_ruler: Object Diagrams
+
+## Helpful content
+
+:bookmark: [The Unified Modeling Language](https://www.uml-diagrams.org/)

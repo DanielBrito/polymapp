@@ -58,7 +58,7 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 ## UI/UX
 
-:straight_ruler: Design [project](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp).
+:straight_ruler: Design [project](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp)
 
 ## Helpful content
 

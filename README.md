@@ -6,7 +6,7 @@
 
 **PolymApp** is a (very) personal management tool to control readings and studies, make long-term activity plans, budget to measure expenses, list ongoing and future projects, and other features.
 
-It's an optimized version of a spreadsheet that I used to perform such activities since I was 16. Moreover, it's also an opportunity to improve my programming skills and increase my knowledge in UI/UX Design and Software Engineering.
+It's an optimized version of a spreadsheet that I used to perform such activities since I was 16. Moreover, it's also an opportunity to improve my programming skills and increase my knowledge of UI/UX Design and Software Engineering.
 
 The name is inspired by the term _polymath_, who is an individual whose knowledge spans a significant number of subjects.
 
@@ -44,6 +44,8 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 :pencil2: [Draw-io](https://app.diagrams.net/): UML Diagrams creation
 
+:straight_ruler: [Figma](https://www.figma.com/files/recent): UI/UX Design
+
 ## Software Engineering
 
 :spiral_notepad: [System requirements specifications](https://docs.google.com/document/d/1-mOQqfdm5J7cd0EA8gDMA6if-CZXx9bo-v9mfI-6Hrg/edit?usp=sharing)
@@ -53,6 +55,10 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 :triangular_ruler: [Class Diagram](https://drive.google.com/file/d/1_em7X-ndYgiG1u71KeCAeBUNpC2fgrM-/view?usp=sharing)
 
 :triangular_ruler: [Object Diagrams](https://drive.google.com/file/d/1EmBxCXySVjG9HDrNP5nciX4P_4oWNXwK/view?usp=sharing)
+
+## UI/UX
+
+:straight_ruler: Design [project](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp).
 
 ## Helpful content
 

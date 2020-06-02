@@ -60,6 +60,8 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 :straight_ruler: Design [project](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp)
 
-## Helpful content
+## Useful content
 
-:bookmark: [The Unified Modeling Language](https://www.uml-diagrams.org/)
+:bookmark: The [Unified Modeling Language](https://www.uml-diagrams.org/) documentation
+
+:camera_flash: [Unsplash](https://unsplash.com/): The internet’s source of freely-usable images

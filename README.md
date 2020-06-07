@@ -56,9 +56,9 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 :triangular_ruler: [Object Diagrams](https://drive.google.com/file/d/1EmBxCXySVjG9HDrNP5nciX4P_4oWNXwK/view?usp=sharing)
 
-## UI/UX
+## UI/UX Design
 
-:straight_ruler: Project [design](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp)
+:straight_ruler: Project [layout](https://www.figma.com/file/nrOHovKVJ6cME8ZrqJWjVy/PolymApp)
 
 ## Useful content
 

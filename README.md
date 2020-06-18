@@ -12,7 +12,7 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 ---
 
-## Functionalities
+## Features
 
 :books: **READINGS:** List of ongoing and future readings (books, magazines, mangas, comics etc.).
 
@@ -32,7 +32,7 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 :moneybag: **EXPENSES:** Since I earned my first salary, I control my monthly expenses and also make a budget for things I want to buy (mostly books).
 
-## Tools
+## Development tools
 
 :toolbox: [ReactJS](https://pt-br.reactjs.org/): JavaScript library
 
@@ -65,3 +65,5 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 :bookmark: The [Unified Modeling Language](https://www.uml-diagrams.org/) documentation
 
 :camera_flash: [Unsplash](https://unsplash.com/): The internet’s source of freely-usable images
+
+:heavy_check_mark: [Flaticon](https://www.flaticon.com/): The largest database of free icons

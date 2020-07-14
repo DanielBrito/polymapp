@@ -18,13 +18,13 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 :mag: **RESEARCHES:** As a person who is interested in a lot of subjects, one day I lost total control of what I was studying, because I couldn't manage all the stuff I was getting into (at the same time). So, this list helped me to get back on track.
 
-:bulb: **TIPS:** List of actions, positive thoughts and quotations that makes me reflect on my existential purpose and helps me to create stuff.
+:bulb: **INSPIRATION:** List of actions, positive thoughts and quotations that makes me reflect on my existential purpose and helps me to create stuff.
 
 :calendar: **LONG-TERM PLANS:** List of activities to be scheduled and completed in the long term.
 
 :brain: **LEARNING TOPICS:** My self-learning revolves around this list, which has the programming topics that I'm learning, the ones I want to study, as well as languages (French, Spanish, Italian) and many, many other things.
 
-:hammer_and_wrench: **PROJECTS:** List of projects that I'm involved in and intend to develop.
+:rocket: **PROJECTS:** List of projects that I'm involved in and intend to develop.
 
 :ballot_box_with_check: **APPOINTMENTS:** List of daily activities. I don't stipulate time, because everything is so unpredictable. I just write down all the goals and try to complete them.
 

@@ -6,7 +6,7 @@
 
 **PolymApp** is a (very) personal management tool to control readings and studies, make long-term activity plans, budget to measure expenses, list ongoing and future projects, and other features.
 
-It's an optimized version of a spreadsheet that I used to perform such activities since I was 16. Moreover, it's also an opportunity to improve my programming skills and increase my knowledge of UI/UX Design and Software Engineering.
+It's an optimized version of a spreadsheet that I used to perform such activities since I was 16. Moreover, it's also an opportunity to improve my programming skills and increase my knowledge of UI/UX Design, Software Engineering, and learn about Unit Testing, CI/CD and more.
 
 The name is inspired by the term _polymath_, who is an individual whose knowledge spans a significant number of subjects.
 

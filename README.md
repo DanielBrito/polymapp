@@ -58,6 +58,4 @@ The name is inspired by the term _polymath_, who is an individual whose knowledg
 
 :bookmark: The [Unified Modeling Language](https://www.uml-diagrams.org/) documentation
 
-:camera_flash: [Unsplash](https://unsplash.com/): The internet’s source of freely-usable images
-
 :heavy_check_mark: [Flaticon](https://www.flaticon.com/): The largest database of free icons
